@@ -1,0 +1,11 @@
+Projeto:
+Data da entrega 01/12
+
+Entregas:
+	Apresentação, Documentação e código e perguntas feitas na aula.
+	
+Requisitos mínimo:
+6 páginas sendo uma página de login e senha e um formulário de cadastro.
+
+Assunto da AV1:
+Slider 1 ao 6, basicamente tudo de HTML e CSS

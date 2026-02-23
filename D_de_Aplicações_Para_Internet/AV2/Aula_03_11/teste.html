@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en"></html>]
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste HTML</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <script>
+    let num = parseFloat(prompt("Enter a number:"));
+    let i = 0;
+    for (i = num; i>2; i-=2){
+        document.write("["+i+"]");
+    }
+    document.write("<br>");
+    </script>
+    <script>
+    let myCars = ["Saab", "Volvo", "BMW"];
+    document.write(myCars[0]);
+
+    document.write("<br>");
+ </script>
+
+ <script>
+    let pais = ["João", "Maria"];
+    let filho = ["Ana", "Pedro"];
+    let familia = pais.concat(filho);
+
+    document.write(familia);
+    </script>
+
+    <script>
+let pessoas = ["João", "Maria", "Ana", "Pedro"];
+// Utiliza o separador padreão ","
+document.write(pessoas.join() + "<br>");
+// Utiliza o separador padrão passado por parâmetro
+document.write(pessoas.join(" + ") + "<br>");
+// Utiliza o separador padrão passado por parâmetro
+document.write(pessoas.join(" and ") + "<br>");
+    </script>
+  
+</body>
+</html>
+ 

@@ -1,0 +1,31 @@
+/* Header */
+.site-header {
+    background: #fff;
+    border-bottom: 1px solid #ddd;
+}
+
+.site-header .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 0;
+}
+
+.brand {
+    font-weight: 700;
+}
+
+.primary-nav ul {
+    display: flex;
+    gap: 12px;
+}
+
+.primary-nav a {
+    padding: 6px 10px;
+    border-radius: 6px;
+    color: #444;
+}
+
+.primary-nav a:hover {
+    background: #eee;
+}

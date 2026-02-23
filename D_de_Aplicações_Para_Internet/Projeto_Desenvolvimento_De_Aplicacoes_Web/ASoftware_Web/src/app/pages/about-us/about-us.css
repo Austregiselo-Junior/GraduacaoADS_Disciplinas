@@ -1,0 +1,64 @@
+.container {
+    display: flex;
+    align-items: flex-start;
+    /* deixa imagem e texto alinhados no topo */
+    gap: 30px;
+    /* espaço entre a imagem e o texto */
+    padding: 20px;
+}
+
+.foto {
+    width: 45%;
+    /* controla tamanho da imagem */
+    border-radius: 10px;
+}
+
+.texto {
+    width: 50%;
+    /* define o espaço do texto ao lado */
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+
+    background-color: #262a2e;
+    /* Cor igual à imagem */
+    color: white;
+    padding: 0px;
+    margin: 0%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Nome da aplicação */
+.brand {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.login-btn {
+    padding: 5px 50px;
+    margin: 0px 0px 0px 0px;
+    background: linear-gradient(to right, #1c3b5f, #5ba7d1);
+    border: none;
+    border-radius: 6px;
+    color: white;
+    font-weight: 500;
+    font-size: 15px;
+    cursor: pointer;
+    display: block;
+    width: max-content;
+    transition: 0.2s;
+}

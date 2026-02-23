@@ -1,0 +1,5 @@
+Calendário - AV2
+12/11 - Protótipo de baixo nível
+19/11 - Front end
+26/11 - CRUD
+3/12 - App - Qualquer linguagem e framwork, não é obrigado ter todos os requisitos
