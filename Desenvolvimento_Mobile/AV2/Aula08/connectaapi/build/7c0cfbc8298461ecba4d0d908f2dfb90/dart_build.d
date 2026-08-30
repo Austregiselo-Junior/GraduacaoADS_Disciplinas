@@ -1,0 +1,1 @@
+ C:\\Users\\austr\\OneDrive\\Documentos\\Graduação\ e\ pós-graduações\\Graduação\ em\ Análise\ e\ Desenvolvimento\ de\ Sistemas\\2025\\Disciplinas\\Desenvolvimento_Mobile\\AV2\\Armazenamento\ de\ Dados\\connectaapi\\build\\7c0cfbc8298461ecba4d0d908f2dfb90\\dart_build_result.json: 

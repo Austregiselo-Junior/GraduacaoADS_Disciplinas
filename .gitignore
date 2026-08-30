@@ -1,0 +1,38 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+
+# Angular / Node
+node_modules/
+dist/
+.angular/
+.nx/
+coverage/
+
+# Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+
+# Arquivos de backup
+*.bkp

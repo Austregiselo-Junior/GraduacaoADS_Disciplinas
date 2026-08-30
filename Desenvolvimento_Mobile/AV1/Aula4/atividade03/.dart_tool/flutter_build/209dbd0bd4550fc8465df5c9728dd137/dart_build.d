@@ -1,0 +1,1 @@
+ C:\\Users\\austr\\OneDrive\\Documentos\\Graduação\ e\ pós-graduações\\Graduação\ em\ Análise\ e\ Desenvolvimento\ de\ Sistemas\\2025\\Disciplinas\\Desenvolvimento_Mobile\\AV1\\Aula4\\atividade03\\.dart_tool\\flutter_build\\209dbd0bd4550fc8465df5c9728dd137\\dart_build_result.json: 

@@ -16,7 +16,8 @@
 select count(*) as 'Qtd Bairros' from bairro;
  
 -- Qual é a maior população entre os bairros?
-select max(populacao) as 'Maior populacao' from bairro;
+select max(populacao) as 'Maior populacao' 
+from bairro;
 
 -- Qual é a média de população dos bairros?
 select avg(populacao) as 'media de populacao' from bairro;
@@ -38,6 +39,10 @@ podemos aplicar funções de agregação.
 select year(data) as 'Ano', count(*) as 'Qtd'
 from evento
 group by year(data);
+
+select max(populacao) as 'Maior populacao', nome as 'bairro' 
+from bairro
+group by(nome);
 
 update evento set data = '2026-03-11'
 where idEvento in (1,4);

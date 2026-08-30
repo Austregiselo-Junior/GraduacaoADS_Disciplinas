@@ -1,0 +1,1 @@
+ C:\\Users\\austr\\OneDrive\\Documentos\\Graduação\ e\ pós-graduações\\Graduação\ em\ Análise\ e\ Desenvolvimento\ de\ Sistemas\\2025\\Disciplinas\\Desenvolvimento_Mobile\\AV2\\Jogo\\adivinhacao\\build\\22a6ce2cdb9d7be4f77672f935fc86f7\\dart_build_result.json: 
